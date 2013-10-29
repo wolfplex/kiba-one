@@ -50,7 +50,6 @@ $wgResourceModules['skins.kibaone'] = [
         'kibaone/assets/scripts/foundation/foundation.placeholder.js',
         'kibaone/assets/scripts/foundation/foundation.forms.js',
         'kibaone/assets/scripts/foundation/foundation.alerts.js',
-        'kibaone/assets/scripts/kibaone.js',
     ],
     'remoteBasePath' => &$GLOBALS['wgStylePath'],
     'localBasePath'  => &$GLOBALS['wgStyleDirectory'],
